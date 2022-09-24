@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homepage"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Anasayfa"/>
+    <item
+        android:id="@+id/announcements"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_announcement_24"
+        android:title="Duyurular"/>
+    <item
+        android:id="@+id/mail"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="E-posta"/>
+    <item
+        android:id="@+id/ubys"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="UBYS"/>
+</menu>
