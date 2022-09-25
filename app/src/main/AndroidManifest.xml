@@ -13,7 +13,7 @@
         android:label="Hitit Üni. UBYS"
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.HititUBYS"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:targetApi="31">
         <activity
             android:name=".Announcements"
